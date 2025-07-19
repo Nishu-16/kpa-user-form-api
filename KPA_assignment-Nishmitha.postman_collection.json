@@ -1,0 +1,28 @@
+{
+	"info": {
+		"_postman_id": "308c8583-1852-4e70-bdac-61dd55a9c27c",
+		"name": "KPA_assignment-Nishmitha",
+		"description": "StartFragmentThis collection contains API requests for KPA backend assignment – including user registration and file upload.EndFragment",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "46729761",
+		"_collection_link": "https://nishmitha-4910420.postman.co/workspace/nishmitha's-Workspace~23caa889-ce5e-49b9-8785-e29cf0fd956d/collection/46729761-308c8583-1852-4e70-bdac-61dd55a9c27c?action=share&source=collection_link&creator=46729761"
+	},
+	"item": [
+		{
+			"name": "register_user",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "upload_file",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
